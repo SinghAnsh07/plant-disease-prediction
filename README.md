@@ -251,5 +251,4 @@ early_stopping = tf.keras.callbacks.EarlyStopping(
 
 ## 👤 Author
 
-**Built by ANSH SINGH**  
-Portfolio project demonstrating deep learning expertise in agricultural computer vision.
+**Built by ANSH SINGH**
